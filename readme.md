@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00C4FF&center=true&vCenter=true&width=600&lines=Hi!+I'm+a+Software+Engineer;Python+Developer;Chatbot+Creator;Web+Scraping+%26+Automation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=CA1BDE&center=true&vCenter=true&width=600&lines=Hi!+I'm+a+Software+Engineer;Python+Developer;Chatbot+Creator;Web+Scraping+%26+Automation" />
 </p>
 
 ## 👋 About Me
